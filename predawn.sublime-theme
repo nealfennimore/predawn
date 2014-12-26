@@ -694,20 +694,20 @@
     {
         "class": "quick_panel_label",
         "fg": [120, 120, 120],
-        "match_fg": [241, 130, 96],
+        "match_fg": [80, 177, 193],
         "selected_fg": [255, 255, 255, 255],
         "selected_match_fg": [255, 255, 255]
     },
     {
         "class": "quick_panel_path_label",
         "fg": [75, 75, 75],
-        "match_fg": [241, 130, 96],
+        "match_fg": [80, 177, 193],
         "selected_fg": [255, 255, 255, 255],
         "selected_match_fg": [255, 255, 255]
     },
     {
         "class": "quick_panel_score_label",
-        "fg": [241, 130, 96],
+        "fg": [80, 177, 193],
         "selected_fg": [255, 255, 255]
     },
 
